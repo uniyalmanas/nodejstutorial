@@ -6,4 +6,4 @@ const ob={
 const jsondata = JSON.stringify(ob);
 console.log(jsondata);
 const objectdata = JSON.parse(jsondata);
-console.log(objectdata);
+console.log(objectdata);  
